@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Droid Sans', 'Helvetica Neue', 'Kanit Font', 'Times New Roman',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, 'Menlo', 'Monaco', 'Consolas', 'Courier New', 'Kanit','Roboto', 'Arial', 'Times New Roman', 'Courier New', 'Arial Black', 'Arial Narrow', 'Arial Rounded MT Bold', 'Calibri', 'Calibri Light', 'Cambria', 'Cambria Math', 'Candara', 'Comic Sans MS', 'Consolas', 'Corbel', 'DejaVu Sans', 'DejaVu Sans Mono', 'Didot', 'Franklin Gothic Medium', 'Franklin Gothic Demi', 'Garamond', 'Georgia', 'Impact', 'Ink Free', 'Latha', 'Lucida Console', 'Lucida Sans', 'Lucida Sans Unicode', 'Microsoft Sans Serif', 'MS Gothic', 'MS Outlook', 'MS Sans Serif', 'MS Serif', 'Palatino Linotype', 'Segoe UI', 'Segoe UI Light', 'Segoe UI Semibold', 'Segoe UI Symbol', 'Tahoma', 'Trebuchet MS', 'Verdana', 'Webdings', 'Wingdings', 'Wingdings 2', 'Wingdings 3', sans-serif;
+}
+/* create Color by phimaha */
+h1 {
+  color: #010101;
+  font-family: 'Kanit Font', 'Roboto', 'Arial', 'Times New Roman', 'Courier New', monospace, 'Arial Black', 'Arial Narrow', 'Arial Rounded MT Bold', 'Calibri', 'Calibri Light', 'Cambria', 'Cambria Math', 'Candara', 'Comic Sans MS', 'Consolas', 'Corbel', 'DejaVu Sans', 'DejaVu Sans Mono', 'Didot', 'Franklin Gothic Medium', 'Franklin Gothic Demi', 'Garamond', 'Georgia', 'Impact', 'Ink Free', 'Latha', 'Lucida Console', 'Lucida Sans', 'Lucida Sans Unicode', 'Microsoft Sans Serif', 'MS Gothic', 'MS Outlook', 'MS Sans Serif', 'MS Serif', 'Palatino Linotype', 'Segoe UI', 'Segoe UI Light', 'Segoe UI Semibold', 'Segoe UI Symbol', 'Tahoma', 'Trebuchet MS', 'Verdana', 'Webdings', 'Wingdings', 'Wingdings 2', 'Wingdings 3', sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 20px;
+}
+
